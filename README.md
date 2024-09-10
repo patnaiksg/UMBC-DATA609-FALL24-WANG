@@ -2,3 +2,4 @@
 
 - Python for statistics and visualisation
 - Wednesday 7:10pm - 9:40pm
+- Dr. Wang
